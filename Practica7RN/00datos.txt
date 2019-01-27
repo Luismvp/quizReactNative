@@ -1,0 +1,11 @@
+Luis Martín de Vidales Palomero
+Verónica Santos Pulpón
+G819
+La aplicación ha sido probada en un Iphone 6, un Iphone 7 y en el simulador del Android Studio.
+Se han realizado las 2 mejoras propuestas para esta práctica, a saber:
+
+Navegación: han sido creadas las 2 pantallas, la primera con la cabecera y el botón para empezar el cuestionario y la segunda
+con el cuestionario y el botón adicional.
+
+Almacenamiento de preguntas: Se han añadido las funcionalidades de guardar las preguntas por medio de la API AsyncStorage, así
+como de borrar las preguntas almacenadas y de cargarlas en el cuestionario.
